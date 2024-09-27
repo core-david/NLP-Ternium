@@ -55,5 +55,4 @@ The free-form Spanish text is translated to English using the `googletrans` libr
 1. **Time and Budget**: The project focuses on processing textual data within a feasible time limit and computational budget.
 2. **Model Robustness**: Models are tested for robustness against noisy input and spelling variations, ensuring reliable classification across a variety of text inputs.
 
-By implementing this natural language classification system, Ternium can effectively categorize operational issues, enabling faster response times, targeted maintenance, and overall process improvement.
 
